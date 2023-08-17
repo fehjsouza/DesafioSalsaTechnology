@@ -9,9 +9,6 @@ import static io.restassured.RestAssured.get;
 import static io.restassured.RestAssured.given;
 import static org.hamcrest.Matchers.containsString;
 
-// IMPORTANTE!!
-// Para realizar novos casos de teste, é necessário utilziar email temporário através do site https://temp-mail.org/pt/
-// Copiar o Token da caixa de entrada no Teste votacao Inserir headerValue o Token
 
 public class TesteApi {
 
